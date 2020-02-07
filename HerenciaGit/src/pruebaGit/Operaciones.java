@@ -14,7 +14,7 @@ public class Operaciones {
 	}
 	
 	public int resta() {
-		return operadorA - operadorB ;
+		return operadorA - operadorB;
 	}
 	
 
