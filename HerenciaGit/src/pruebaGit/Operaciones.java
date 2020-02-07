@@ -3,6 +3,7 @@ package pruebaGit;
 public class Operaciones {
 	private int operadorA;
 	private int operadorB;
+	private int operadorZ;
 
 	public Operaciones(int operadorA, int operadorB) {
 		this.operadorA = operadorA;
