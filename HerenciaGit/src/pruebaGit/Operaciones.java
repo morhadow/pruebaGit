@@ -18,6 +18,10 @@ public class Operaciones {
 		return operadorA - operadorB;
 	}
 	
+	public int multiplicacion() {
+		return operadorA * operadorB;
+	}
+	
 
 	public int getOperadorA() {
 		return operadorA;
