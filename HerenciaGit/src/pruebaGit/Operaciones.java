@@ -10,11 +10,11 @@ public class Operaciones {
 	}
 
 	public int suma() {
-		return operadorA + operadorB;
+		return operadorA + operadorB ;
 	}
 	
 	public int resta() {
-		return operadorA - operadorB;
+		return operadorA - operadorB ;
 	}
 	
 
